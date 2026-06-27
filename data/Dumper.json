@@ -1,0 +1,40 @@
+{
+    "id": 141998996,
+    "name": "Dumper",
+    "author": "barkgdd",
+    "creators": ["barkgdd"],
+    "verifier": "barkgdd",
+    "verification": "https://www.youtube.com/watch?v=W6snrpswgtk",
+    "percentToQualify": 60,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "xxblx1",
+            "link": "https://youtu.be/Exsj63PzSE0?is=57CriDixzWAEPD9Q",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "FS",
+            "link": "https://youtube.com/shorts/4BMSkFTbads",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "Doodle",
+            "link": "https://youtu.be/eVHd1In1y-s",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "magicalcollabs",
+            "link": "https://youtu.be/_QRJvc1Wk_0?is=rmkcP2vB148e0-Or",
+            "percent": 100,
+            "hz": 90
+        }
+
+
+
+
+     ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 140626979,
+    "name": "Very good level trus",
+    "author": "zenyrlover",
+    "creators": ["zenyrlover"],
+    "verifier": "zenyrlover",
+    "verification": "https://youtu.be/vZBeo6DzDo0",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "xxblx1",
+            "link": "https://youtu.be/LgN7mMHGFG0?is=0qpPneSHKGmMW7ox",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Doodle",
+            "link": "https://youtu.be/yoQhWGxTQYo?si=kZbNUpUCD11qZf8t",
+            "percent": 100,
+            "hz": 60
+        }
+     ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 127297412,
+    "name": "Unnamed 6",
+    "author": "Doodle",
+    "creators": ["Doodle"],
+    "verifier": "Doodle",
+    "verification": "https://www.youtube.com/watch?v=ZDRSX-4U7-E",
+    "percentToQualify": "59",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "xxblx1",
+            "link": "https://youtu.be/U1U_yNbe5kI?is=ROA6DY-30IsDkhpL",
+            "percent": 100,
+            "hz": 240
+        }]
+}

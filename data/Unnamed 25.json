@@ -1,0 +1,23 @@
+{
+    "id": 141840053,
+    "name": "Unnamed 25",
+    "author": "Zenyrlover",
+    "creators": ["Zenyrlover"],
+    "verifier": "Zenyrlover",
+    "verification": "https://youtu.be/LXgrJrEgzew?si=fDF56wxC3yt0mmcW",
+    "percentToQualify": 71,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "xxblx1",
+            "link": "https://youtu.be/bpK-gZ09O7o?is=MMrUnvnSjh2w0FHZ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dash Dude",
+            "link": "https://www.youtube.com/watch?v=2yk2JH6_jsM",
+            "percent": 100,
+            "hz": 60
+        }]
+}

@@ -1,0 +1,63 @@
+{
+    "id": 83020000,
+    "name": "Darkest Times",
+    "author": "Ulyloo",
+    "creators": ["Ulyloo"],
+    "verifier": "Doodle",
+    "verification": "https://youtu.be/uprW6VTHuHE?si=XM7x33ZilICm1oVK",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "DeluxeGMD",
+            "link": "https://youtu.be/ovkFKS7Vr0g",
+            "percent": 100,
+            "hz": 90
+        },
+        {
+            "user": "Nitrogen",
+            "link": "https://youtu.be/E4_vQX56NyE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DashDude",
+            "link": "https://www.youtube.com/watch?v=Heu1XRhUvT8",
+            "percent": 100,
+            "hz": 60
+        }, 
+        {
+            "user": "xxblx1",
+            "link": "https://youtu.be/TyVcWgwCbBg?is=GkXe7q3sT04-ZM48",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BarkGDD",
+            "link": "https://www.youtube.com/watch?v=9TMI2_bsqYk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Zenyrlover",
+            "link": "https://youtu.be/Jw3dpuZe5ag?si=Yr0CZfwGoAUpdNMw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "KorybGD",
+            "link": "https://www.youtube.com/watch?v=pVi_1lEBl8M",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Dash Dude",
+            "link": "https://m.youtube.com/watch?v=M15R_CKt2P8&ra=m",
+            "percent": 100,
+            "hz": 60
+        }
+
+
+
+    ]
+}
